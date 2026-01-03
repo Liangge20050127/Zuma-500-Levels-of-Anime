@@ -1,0 +1,4 @@
+more http://www.popcap.com/bookworm.php?src=mg_zuma bookworm | win32ads/mg_bookworm.jpg win32ads/mg_bookworm2.gif | 0 0 
+more http://www.popcap.com/dynomite.php?src=mg_zuma dynomite | win32ads/mg_dynomite.jpg win32ads/mg_dynomite2.gif | 0 0 
+more http://www.popcap.com/rocketmania.php?src=mg_zuma rocketmania | win32ads/mg_rocketmania.jpg win32ads/mg_rocketmania2.gif | 0 0 
+more http://www.popcap.com/bejeweled.php?src=mg_zuma bejeweled | win32ads/mg_bejeweled.jpg win32ads/mg_bejeweled2.gif | 0 0 
